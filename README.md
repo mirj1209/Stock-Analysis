@@ -3,7 +3,7 @@
 ###Background
 During this module, I created a workbook. At a click of a button, one can analyze the entire data set for stocks during 2017 and 2018. However, the code I created although works, it’s not as time-efficient as it can be. Thus, this leads to the purpose of this project.
 ###Purpose
-  The purpose of this project is to edit/refactor the workbook. With the goal to make the code more time-efficient and let the script run faster. Also to see whether or not the modifications will have any effect on the codes running time.
+The purpose of this project is to edit/refactor the workbook. With the goal to make the code more time-efficient and let the script run faster. Also to see whether or not the modifications will have any effect on the codes running time.
   
 ##Results
 During 2017, it seems that most stocks; that was invested on; were thriving returning at least 20% back. With a few exceptions that were below 10% return and one returning a negative percentage. However, during 2018 almost every single stock (apart from RUN and ENPH) began returning a negative percentage. This tells us that apart from RUN and ENPH, every single stock is extremely volatile (this could be further investigated if there were any monthly data) for example SEDG went from returning 184.5% to -7.8%. That is almost a 200% drop. 
