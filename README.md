@@ -13,6 +13,7 @@ In terms of the code, before refactoring the time stamps for the previous code w
 ![refactored code running time](https://user-images.githubusercontent.com/104941338/170326951-1f99ae72-e354-4eb5-9d2d-98e74bdac632.png)
 
 The biggest difference between the original code and the refactored code is that the original code went through multiple If statements within a single loop rather than making multiple smaller loops. As the original code had a loop that had 2 separate If statements, where the code had to go back and forth between cells to see if they fit the If statement requirements. Whereas, in the refactored code, there was an index to specify which kind of cells it was looking into for the computer to not go back and forth within every single cell that could possibly fit the If statement requirements. The creation of the index was the difference that cut the running time significantly as it cut a great number of cells the computer was looking at while running the code. 
+
 ![code comparisson](https://user-images.githubusercontent.com/104941338/170327084-359b11a9-41e5-4162-81da-811db05e3b02.png)
 
 ## Summary
